@@ -4,5 +4,6 @@ import "fmt"
 
 func main() {
 	//Comment added
-	fmt.Println("First Commit")
+	var x int = 1
+	fmt.Println(x)
 }
